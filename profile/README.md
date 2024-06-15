@@ -11,12 +11,12 @@ Our Prototype Mobile App : https://www.figma.com/file/MFnP4ZH9cRkzuwwhpNQJXj/**P
 <h1>Our Team</h1>
 
 
-|Bangkit ID|Name|University|Learning Path|LinkedIn
+|Bangkit ID|Name|Learning Path|Universitas|LinkedIn
 |--|--|--|--|--
 |M237D4KY3302|Sayid Mabrur Rabbani Al Bab|Machine Learning|Universitas Komputer Indonesia|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sayid-mabrur-r-553174191/)|
 |M193D4KY3179|Iksan Wijaya|Machine Learning|Universitas Bina Sarana Informatika|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/iksan-wijaya-0616662b3/))|
 |M121D4KY3041|Ivan Sahattua Sitanggang|Machine Learning|Universitas Telkom Surabaya|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-sitanggang-/)|
 |A172D4KX4311|Geby Laurent Br Ginting|Mobile Development|Universitas Mikroskil|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/geby-ginting/)|
 |M121D4KY3041|Rafael Smash|CC|Universitas ...|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-sitanggang-/)|
-|M121D4KY3041|Muhammad Fia|MD|Universitas ...|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-sitanggang-/)|
+|M121D4KY3041|Luthfia Khairunnisa Salma|MD|Universitas ...|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-sitanggang-/)|
 |M121D4KY3041|Dary Fajar Setyadin|CC|Universitas ..|[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ivan-sitanggang-/)|
